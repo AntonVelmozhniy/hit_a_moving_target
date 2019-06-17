@@ -5,5 +5,5 @@ Simple example project I made in unity with purpose of learning how to predict t
 
 Check out attacker parameters in inspector
 
-Check out video:
+Check out video about this example: https://www.youtube.com/watch?v=dEx_GqRoOoU
 
